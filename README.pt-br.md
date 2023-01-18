@@ -1,6 +1,6 @@
 # Olá 👋, Bem-vindo a Hoodyth 🚀
 
-🌏 [Inglés](https://github.com/hoodyth/.github/blob/main/profile/README.en.md) | [Español](https://github.com/hoodyth/.github/blob/main/profile/README.md) | [Português](https://github.com/hoodyth/.github/blob/main/profile/README.pt-br.md)
+🌏 [Inglés](https://github.com/hoodyth/.github/blob/main/profile/README.en.md) | [Español](https://github.com/hoodyth/.github/blob/main/profile/README.md) | [Português](https://github.com/hoodyth/community/blob/main/README.pt-br.md)
 
 # Uma comunidade de Técnologia | Entre no nosso Discord <a href="https://discord.gg/VJe9gqEZ">![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)</a>
 
